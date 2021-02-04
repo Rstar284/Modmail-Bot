@@ -30,4 +30,4 @@ A modmail with rich features.
 
 ## About
 
-**discord-modmail** by Cyanic76, a JS modmail with rich features.
+**discord-modmail** by Rstar284, a JS modmail bot :)
